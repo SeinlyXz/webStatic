@@ -24,7 +24,7 @@ const nextConfig = {
   },
   env: {
   },
-  basePath: 
+  basePath
 };
 
 module.exports = nextConfig;
