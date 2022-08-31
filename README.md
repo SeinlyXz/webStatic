@@ -1,6 +1,6 @@
-# cv
+# My Curriculum Vitae
 
-Saya belajar web
+Making auto-generate website using reframe by @anvie
 
 ## Getting Started
 
