@@ -5,7 +5,7 @@ const dotenv = require("dotenv");
 
 dotenv.config({ path: ".env" });
 
-const basePath = (process.env.NODE_ENV === "development" ? "" : "/cv-ku");
+const basePath = (process.env.NODE_ENV === "development" ? "" : "/webStatic");
 
 const nextConfig = {
   reactStrictMode: true,
@@ -24,7 +24,7 @@ const nextConfig = {
   },
   env: {
   },
-  basePath
+  basePath: 
 };
 
 module.exports = nextConfig;
